@@ -19,10 +19,10 @@ sections:
   view_all_url: portfolio/index.html
 - type: postsblock
   template: postsblock
-  title: Latest from the Blog
+  title: Latest from my Blog
   section_id: latest-posts
   component: posts_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: Pixels & Threads
   num_posts_displayed: 2
   actions:
   - label: View Blog
