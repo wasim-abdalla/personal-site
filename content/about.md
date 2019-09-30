@@ -1,18 +1,20 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+title: About Me
+subtitle: This is a short page about me and my work.
+img_path: "/images/hero-img.png"
+layout: page
 menu:
   main:
     name: About
     weight: 4
-layout: page
+
 ---
+**Wasim Abdalla** is a Software Engineer. After graduating from The University of Texas at Dallas with a degree in both Computer Science and International Politcal Economies, he worked for Facebook on the messenger team in NYC.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+He has completed software engineering internships at State Farm, Verizon, and Citi Group.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+As a hobby, loves to play basketball (Go Lakers), code, and write this tech blog
 
-*Thank You for reading!*
+_Thank You for reading!_
