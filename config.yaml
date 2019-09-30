@@ -9,7 +9,7 @@ params:
     has_nav: true
     logo_img: "/images/Wasim Abdalla..png"
   footer:
-    content: "&copy; Stackbit-Exto. All rights reserved."
+    content: ''
     links:
     - text: Made with love from Dallas, TX
       url: https://www.stackbit.com
