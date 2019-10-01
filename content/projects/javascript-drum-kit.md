@@ -11,8 +11,8 @@ title = "JavaScript Drum Kit"
 
 Created using only pure vanilla HTML, CSS, and javaScript.
 
-Try it yourself at the following link: 
+Try it yourself at the following link:
 
 [https://wasim-abdalla.github.io/drumKit/](https://wasim-abdalla.github.io/drumKit/ "drum kit link")
 
-If you would like to know how drum kit and other projects were created, check out my blog here. 
+If you would like to know how drum kit and other projects were created, check out my blog [here](https://wasimabdalla.com/posts/drum-kit-tutorial/).
