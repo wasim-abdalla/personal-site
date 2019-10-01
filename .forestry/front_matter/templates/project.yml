@@ -33,6 +33,7 @@ fields:
   config:
     required: true
 pages:
+- content/projects/javascript-drum-kit.md
 - content/projects/project-7.md
 - content/projects/project-6.md
 - content/projects/project-5.md
