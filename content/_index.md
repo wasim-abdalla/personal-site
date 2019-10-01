@@ -1,6 +1,12 @@
 ---
 title: Home
 sections:
+- template: heroblock
+  component: hero_block.html
+  type: heroblock
+  content: "![](/images/Wasim Abdalla..png)"
+  title: ''
+  section_id: ''
 - type: heroblock
   template: heroblock
   title: Hi, I'm Wasim Abdalla. Welcome to my personal site!
