@@ -13,7 +13,7 @@ menu:
 
 He has completed software engineering internships at State Farm, Verizon, and Citi Group.
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+> "The world always seems brighter when you’ve just made something that wasn’t there before." - Neil Gaiman
 
 As a hobby, loves to play basketball (Go Lakers), code, and rewatch the office again.
 
